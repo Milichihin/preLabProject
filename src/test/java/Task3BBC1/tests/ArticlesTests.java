@@ -11,24 +11,25 @@ import static org.testng.Assert.assertTrue;
 
 public class ArticlesTests extends BaseTest {
 
-    private static final String TEST_ARTICLE = "No new England Covid rules before new year";
+    private static final String TEST_ARTICLE = "Ash hampers Tonga aid as scale of damage emerges";
     private static final List<String> RANGE = Arrays.asList(
-            "Omicron and Delta driving case tsunami - WHO",
+            "Ash hampers Tonga aid as scale of damage emerges",
             "",
-            "Public shaming returns in China amid Covid fears",
-            "Hong Kong news website shuts as staff arrested",
-            "How is it going with those grand COP26 commitments?",
-            "Desmond Tutu's daughter: 'Daddy was a hugger'",
-            "'Icemageddon' warnings follow Alaska heat record",
-            "Legend of street photography Sabine Weiss dies at 97",
-            "Russia orders health and drug checks for foreigners",
-            "Teen shot by police in LA died in mother's arms",
-            "TikTok moderator sues over 'psychological trauma'",
+            "'If I find a body, I recover a piece of my son'",
+            "Rabbi threw chair to escape Texas synagogue gunman",
+            "UK says it is sending weapons to defend Ukraine",
+            "HK police charge former aircrew over Covid rules",
+            "Body of missing four-year-old Belgian boy found",
+            "Afghanistan twin quakes kill at least 22",
+            "Suspect identified over Anne Frank's betrayal",
+            "Plastic crisis needs binding treaty, report says",
+            "French far-right candidate guilty of hate speech",
             "",
-            "Hurricanes to expand into more populated regions",
-            "Citroën Egypt ad accused of normalising harassment",
-            "Uganda detains award-winning author",
-            "Three die after memorial candle sparks hospital fire"
+            "",
+            "BBC licence fee to be frozen at £159 for two years",
+            "More MI5 alerts to come to counter foreign interference",
+            "Australian Open: Murray v Basilashvili - radio & text",
+            "UK job vacancies hit new high after furlough ends"
     );
     private static final ArrayList<String> RANGE_OF_TEST_ARTICLE = new ArrayList<>(RANGE);
 
